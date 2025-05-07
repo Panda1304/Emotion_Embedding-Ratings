@@ -1,4 +1,4 @@
-# 📦 Emotion_Embedding_Rating
+# 📦 Emotion_Embedding_Ratings
 
 This project builds a predictive model to estimate user ratings based on the semantic and emotional content of e-commerce reviews. Each review is represented by a 64-dimensional embedding that captures its emotion-semantic meaning. The goal is to train a model that generalizes well across diverse review data to predict ratings accurately.
 
